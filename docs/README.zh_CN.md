@@ -58,4 +58,4 @@ pnpm lint
 - build 依赖检查
 
 ## 截图
-![](docs/demo.png)
+![](demo.png)
