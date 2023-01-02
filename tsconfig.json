@@ -1,0 +1,20 @@
+{
+  "include": ["./src/**/*"],
+  "references": [
+    {
+      "path": "./src/config/tsconfig.config.json"
+    },
+    {
+      "path": "./src/config/tsconfig.app.json"
+    },
+    {
+      "path": "./src/config/tsconfig.vitest.json"
+    }
+  ],
+  "compilerOptions": {
+    "isolatedModules": true,
+    "module": "es2022",
+    "moduleResolution": "Node",
+    "types": ["vite/client"]
+  }
+}
