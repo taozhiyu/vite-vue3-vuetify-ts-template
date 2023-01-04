@@ -1,6 +1,10 @@
 中文请看 [这里](docs/README.zh_CN.md)
 # vite-vue3-vuetify-ts-template
 
+let it go, trying to hide the configuration files in the root directory resulted in all bugs... =_=
+
+Archived, try this: https://github.com/logue/vite-vuetify-ts-starter
+
 This template should help get you started developing with Vue 3 and Vuetify@next in Vite.
 
 ## Recommended IDE Setup

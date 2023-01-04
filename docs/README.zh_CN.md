@@ -1,5 +1,9 @@
 [Here](../README.md) for English Version
 
+拉倒，试图把根目录的配置文件隐藏起来，结果全是bug。。。=_=
+
+暂停维护，可以尝试 https://github.com/logue/vite-vuetify-ts-starter
+
 # vit-vue3-vuetify-ts-template
 
 这个模板或许可以帮助你在Vite中使用Vue3 + Vuetify@next 进行开发。
